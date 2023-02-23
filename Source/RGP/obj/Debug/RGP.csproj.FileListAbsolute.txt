@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2013\Projects\RGP\RGP\bin\Debug\RGP.exe.config
+c:\users\user\documents\visual studio 2013\Projects\RGP\RGP\obj\Debug\RGP.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\RGP\RGP\obj\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2013\Projects\RGP\RGP\obj\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2013\Projects\RGP\RGP\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2013\Projects\RGP\RGP\obj\Debug\RGP_MarkupCompile.cache
+c:\users\user\documents\visual studio 2013\Projects\RGP\RGP\obj\Debug\RGP.g.resources
+c:\users\user\documents\visual studio 2013\Projects\RGP\RGP\obj\Debug\RGP.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\RGP\RGP\obj\Debug\RGP.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\RGP\RGP\bin\Debug\RGP.exe
+c:\users\user\documents\visual studio 2013\Projects\RGP\RGP\bin\Debug\RGP.pdb
+c:\users\user\documents\visual studio 2013\Projects\RGP\RGP\obj\Debug\RGP.exe
+c:\users\user\documents\visual studio 2013\Projects\RGP\RGP\obj\Debug\RGP.pdb
