@@ -10,25 +10,23 @@ A compact WPF program which can be used for generating random numbers, names and
 - Number Generator:
 Can generate random integers or decimal numbers between -99,999,999 and 999,999,999 (Use the password generator for larger numbers).
 
-![NumGenerator](https://user-images.githubusercontent.com/71328992/213922754-8d9b220a-0c4b-44ad-ac37-a91955d72f1c.png)
+![bandicam 2023-02-23 16-56-00-179](https://user-images.githubusercontent.com/71328992/220920707-6406bce5-12bb-4b80-a17d-7b524548e714.png)
 
 
 - Name Generator:
 Can generate random male/female first and last names (including 248 male names, 138 female names and 234 surnames).
 
-![NameGenerator](https://user-images.githubusercontent.com/71328992/213922724-711a8ceb-98ec-4c43-a2d9-c84c7a20b7d0.png)
+![bandicam 2023-02-23 16-56-18-009](https://user-images.githubusercontent.com/71328992/220921098-ddabe51e-571e-4cef-ada5-71762d87ee1c.png)
 
 - Password Generator:
 Can generate random passwords with the specified length (up to 9,999); also supports custom characters for password generation.
 
-![PassGenerator](https://user-images.githubusercontent.com/71328992/213922767-30447c16-3298-4110-b8fb-fa5707d3f724.png)
-
+![bandicam 2023-02-23 16-57-56-271](https://user-images.githubusercontent.com/71328992/220921278-ce422146-a398-4104-bd25-76a589759620.png)
 
 * All generators have a "Write to file" option for exporting the generated stuff to a text file in the program's directory.
 * There are also options for opening the exported text files in the program.
 
-![Menu](https://user-images.githubusercontent.com/71328992/213922995-7e06940d-76de-498a-b891-27c3a7ea2d23.png)
-
+![bandicam 2023-02-23 17-04-22-362](https://user-images.githubusercontent.com/71328992/220922092-af4536d7-b7fe-41f8-805b-cfc46c0a0105.png)
 
 --------------------
 
